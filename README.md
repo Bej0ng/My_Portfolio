@@ -64,7 +64,7 @@ Through these testing sessions, I've discovered interested for software testing 
 
 -   [Testing Peers](https://open.spotify.com/show/0C1qVfyy9UtCFMSaZARCHH?si=bd40151ee41b465e)
 - [Testowanie oprogramowania](https://open.spotify.com/show/7jqDWVuJ7YSX4ep1a5tMMd?si=ffaf033714df4754)
--  [AB Testing](https://open.spotify.com/show/1CrWfV0KNH9HevtsFut1iI?si=85e12dd25e84478f)	
+-  [AB_Testing](https://open.spotify.com/show/1CrWfV0KNH9HevtsFut1iI?si=85e12dd25e84478f)	
 ## Bug Report
  - [Bug Report - Php Travels](https://drive.google.com/file/d/1AEJIyXruWQJxxRpvOvOQD9w-H9nPIkR3/view?usp=sharing)
 ## Test Cases
