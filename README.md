@@ -21,6 +21,7 @@ Through these testing sessions, I've discovered interested for software testing 
 ## Skills
 
 -   Manual testing
+-   Mobile testing
 -   Writing and executing test cases
 -   Finding and reporting bugs
 -   Resolving customer queries and issues with professionalism
