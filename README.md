@@ -67,7 +67,6 @@ Through these testing sessions, I've discovered interested for software testing 
 -  [AB Testing](https://open.spotify.com/show/1CrWfV0KNH9HevtsFut1iI?si=85e12dd25e84478f)	
 ## Bug Report
  - [Bug Report - Php Travels](https://drive.google.com/file/d/1AEJIyXruWQJxxRpvOvOQD9w-H9nPIkR3/view?usp=sharing)
+ - [Bug Report in Jira - aleplanszówki.pl](https://drive.google.com/file/d/1ES7o01cSBxIW-XuWqO6LuRzW76nHjMDO/view?usp=sharing)
 ## Test Cases
  - [Test cases for site Empik.com](https://docs.google.com/spreadsheets/d/1htqXnBcWzpWbbtbctLwbPlB-LVWSqyYAG2FgqEffF0E/edit?usp=sharing)
-
-
