@@ -5,7 +5,7 @@ My name is Jakub Gąsiorek. I am currently working as portal support, with a kee
 
 My journey into portal support began during a temporary assignment, where I showcased my skills as a piping engineer. Recognizing my potential, I was offered a permanent position as a key member of the Ayelix Portal team. 
 
-In my current capacity, I am responsible for onboarding process of employees from diverse departments that are temporarily assigned to work on the Ayelix website. Taking charge in coordinating small teams for urgent projects, I oversee task delegation and reviews. Moreover, I actively contribute to software testing for new Ayelix versions, meticulously reporting and troubleshooting bugs. 
+In my current capacity, I am responsible for onboarding process of employees from diverse departments that are temporarily assigned to work on the Ayelix website. Taking charge in coordinating small teams for urgent projects, I oversee task delegation and reviews. Moreover, I actively contribute to software testing for new Ayelix versions, meticulously reporting and troubleshooting bugs. I also take part of testing of mobile app, that is soon to launched by our company.
 
 Through these testing sessions, I've discovered interested for software testing within the realm of IT. I'm committed to continuous improvement, gearing up to transition into a full-time role as a software tester. 
 
