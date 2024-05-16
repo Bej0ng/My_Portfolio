@@ -17,6 +17,7 @@ Through these testing sessions, I've discovered interested for software testing 
 -   SQL - The Complete Introduction to SQL Programming
 -   Modelling of machine elements using the SolidWorks package
 -   Computer graphics including the following programs: Adobe Ilustrator and Adobe InDesign
+-   Mobile Testing Masterclass (2024) From The Beginning
 
 ## Skills
 
