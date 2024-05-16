@@ -33,13 +33,14 @@ Through these testing sessions, I've discovered interested for software testing 
 
 ## Technology Summary
 
--   SQL
 -   Testlink
--   Labview
+-  Jira
 -   Git
 -  Github
+-  SQL
 -   Ayelix Administrator
 -   Ayelix Asset Manager
+-   Labview
 -   Adobe Illustrator
 -  Adobe InDesign
 -   Autodesk Fusion 360
