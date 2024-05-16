@@ -66,7 +66,9 @@ Through these testing sessions, I've discovered interested for software testing 
 
 -   [Testing Peers](https://open.spotify.com/show/0C1qVfyy9UtCFMSaZARCHH?si=bd40151ee41b465e)
 - [Testowanie oprogramowania](https://open.spotify.com/show/7jqDWVuJ7YSX4ep1a5tMMd?si=ffaf033714df4754)
--  [AB Testing](https://open.spotify.com/show/1CrWfV0KNH9HevtsFut1iI?si=85e12dd25e84478f)	
+-  [AB Testing](https://open.spotify.com/show/1CrWfV0KNH9HevtsFut1iI?si=85e12dd25e84478f)
+-  [Soft Skills Engineering](https://open.spotify.com/show/59I1XnvAB9fQzSj9SIKCoI?si=ae4a6318ecc44364)
+  
 ## Bug Report
  - [Bug Report - Php Travels](https://drive.google.com/file/d/1AEJIyXruWQJxxRpvOvOQD9w-H9nPIkR3/view?usp=sharing)
  - [Bug Report in Jira - aleplanszówki.pl](https://drive.google.com/file/d/1ES7o01cSBxIW-XuWqO6LuRzW76nHjMDO/view?usp=sharing)
