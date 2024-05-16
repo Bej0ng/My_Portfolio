@@ -72,5 +72,6 @@ Through these testing sessions, I've discovered interested for software testing 
 ## Bug Report
  - [Bug Report - Php Travels](https://drive.google.com/file/d/1AEJIyXruWQJxxRpvOvOQD9w-H9nPIkR3/view?usp=sharing)
  - [Bug Report in Jira - aleplanszówki.pl](https://drive.google.com/file/d/1ES7o01cSBxIW-XuWqO6LuRzW76nHjMDO/view?usp=sharing)
+ - [Bug Report on mobile website - saucedemo](https://docs.google.com/document/d/1Xs77DtTJynnJlizKRuZmbQcBIiUhMoFFn60_InJ3Dn4/edit?usp=sharing)
 ## Test Cases
  - [Test cases for site Empik.com](https://docs.google.com/spreadsheets/d/1htqXnBcWzpWbbtbctLwbPlB-LVWSqyYAG2FgqEffF0E/edit?usp=sharing)
