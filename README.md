@@ -30,7 +30,7 @@ Through these testing sessions, I've discovered interested for software testing 
 -   Resolving customer queries and issues with professionalism
 -   Updating and editing website content, ensuring accuracy and relevance
 -   Accurate and efficient data entry
--    Organizing and maintaining databases for effective information retrieval
+-  Organizing and maintaining databases for effective information retrieval
 -  Conducting training sessions for employees on portal features and functionalities
 -  Working collaboratively with cross-functional teams
 
@@ -50,7 +50,8 @@ Through these testing sessions, I've discovered interested for software testing 
 
 ## Certificates
 
--   Technical Support Fundamentals
+-   [Software Testing Masterclass - From Novice to Expert](https://drive.google.com/file/d/1sWujfShyDhjWoouS_BJY75NuNLejRNEU/view?usp=drive_link)
+-   [Technical Support Fundamentals](https://drive.google.com/file/d/1u1AHtX-nqFlOEdSh8kZYOJ9ey31M0yxW/view?usp=drive_link)
 -   Computer graphics including the following programs: Adobe Ilustrator and Adobe InDesign
 -   Modelling of machine elements using the SolidWorks package
 
@@ -58,6 +59,7 @@ Through these testing sessions, I've discovered interested for software testing 
 
 -   Zawód tester (R. Smiglin)
 -  Pasja testowania (K. Jadczyk)
+  
 ## Recommended blogs about testing
 
 -   [testerzy.pl](https://testerzy.pl/)
@@ -77,5 +79,6 @@ Through these testing sessions, I've discovered interested for software testing 
  - [Bug Report in Jira - aleplanszówki.pl](https://drive.google.com/file/d/1ES7o01cSBxIW-XuWqO6LuRzW76nHjMDO/view?usp=sharing)
  - [Bug Report Nr.1 on mobile website - saucedemo](https://docs.google.com/document/d/1Xs77DtTJynnJlizKRuZmbQcBIiUhMoFFn60_InJ3Dn4/edit?usp=sharing)
  - [Bug Report Nr.2 on mobile website - saucedemo](https://docs.google.com/document/d/1LPP8pBx7BSBJ53_FZzEcwI3pPIGsE2tVJm-MFWTWK7g/edit?usp=sharing)
+
 ## Test Cases
  - [Test cases for site Empik.com](https://docs.google.com/spreadsheets/d/1htqXnBcWzpWbbtbctLwbPlB-LVWSqyYAG2FgqEffF0E/edit?usp=sharing)
