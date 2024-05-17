@@ -11,14 +11,16 @@ Through these testing sessions, I've discovered interested for software testing 
 
 ## Courses
 
--   Software Testing Masterclass - From Novice to Expert
--   Devtools Pro: Beginner to Expert w/ Chrome Developer Tools
--   Technical Support Fundamentals by Google
--   SQL - The Complete Introduction to SQL Programming
--   Modelling of machine elements using the SolidWorks package
--   Computer graphics including the following programs: Adobe Ilustrator and Adobe InDesign
--   Mobile Testing Masterclass (2024) From The Beginning
+-   [Software Testing Masterclass - From Novice to Expert](https://www.udemy.com/course/software-testing-masterclass-from-novice-to-expert/)
+-   [Mobile Testing Masterclass (2024) From The Beginning](https://www.udemy.com/course/mobile-testing-masterclass-from-the-beginning)
+-   [Technical Support Fundamentals by Google](https://www.coursera.org/learn/technical-support-fundamentals/home/info)
+-   [Devtools Pro: Beginner to Expert w/ Chrome Developer Tools](https://www.udemy.com/course/master-google-chrome-developer-tools/)
+-   [Git Complete: The definitive, step-by-step guide to Git](https://www.udemy.com/share/1013D83@4gHBsGEDXUBBBNfI_YXrC9Hy0zEMaH_qo_lg3z-oCJ7WqYSR_ys37J4LHteHLrs8/)
+-   [SQL - The Complete Introduction to SQL Programming](https://www.udemy.com/course/sql-the-complete-introduction-to-sql-programming/)
+-   [Modelling of machine elements using the SolidWorks package](https://szkolenia.agh.edu.pl/oferta-kursow-i-szkolen/oferta-zewnetrzna/modelowanie-3d-z-zastosowaniem-pakietu-solidworks)
+-   [Computer graphics including the following programs: Adobe Ilustrator and Adobe InDesign](https://www.graffo.com.pl/kurs_illustrator_indesign/kurs_grafiki_indesign_illustrator_krakow.html)
 
+  
 ## Skills
 
 -   Manual testing
