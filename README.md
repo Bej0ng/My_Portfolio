@@ -43,7 +43,6 @@ Through these testing sessions, I've discovered interested for software testing 
 -  SQL
 -   Ayelix Administrator
 -   Ayelix Asset Manager
--   Labview
 -   Adobe Illustrator
 -  Adobe InDesign
 -   Autodesk Fusion 360
@@ -57,22 +56,22 @@ Through these testing sessions, I've discovered interested for software testing 
 
 ## Technical books about testing
 
--   Zawód tester (R. Smiglin)
--  Pasja testowania (K. Jadczyk)
+-   Zawód tester (R. Smiglin) - I started reading it because it was considered a great book for anyone wanting to start carrer as software tester. It is a comprehensive guide to software testing, covering both theory and practical tools. It’s ideal for ISTQB certification preparation and author's personal insights makes it more useful for someone new in the field of software testing.
+-  Pasja testowania (K. Jadczyk) - I chose this book because it is a great guide for beginners in software testing. It covers key aspects such as defect reporting, test case preparation and documentation. This book also discusses aspects of future prospects as a software tester and potential career development paths.
   
 ## Recommended blogs about testing
 
--   [testerzy.pl](https://testerzy.pl/)
--  [guru99.com](https://www.guru99.com/)
-- [testingxperts.com](https://www.testingxperts.com/blog/)
+-   [testerzy.pl](https://testerzy.pl/) - For me it is a great platform for software testers, Testerzy.pl offers a wealth of resources for skill development, job opportunities, and community engagement. It facilitates knowledge sharing among testers, providing insights into industry trends and best practices. With its supportive community and valuable insights, Testerzy.pl is an essential hub for professionals aiming to excel in software testing.
+-  [guru99.com](https://www.guru99.com/) - Valuable platform for software testers due to its extensive resources and supportive community. With a diverse range of content covering testing methodologies and tools, it offers practical insights and opportunities for hands-on practice. Whether beginners or seasoned professionals, testers can benefit from Guru99.com's structured courses and collaborative environment to enhance their skills and knowledge.
+- [testingxperts.com](https://www.testingxperts.com/blog/) - Great blogs as way to share insights, tips, and best practices in software testing. Their blogs likely cover a range of topics such as testing methodologies, automation strategies, quality assurance processes, industry trends, and case studies. Reading their blogs can provide valuable insights for software testers looking to stay updated on the latest developments in the field and improve their testing practices.
 
 
 ## Recommended podcasts about testing
 
--   [Testing Peers](https://open.spotify.com/show/0C1qVfyy9UtCFMSaZARCHH?si=bd40151ee41b465e)
-- [Testowanie oprogramowania](https://open.spotify.com/show/7jqDWVuJ7YSX4ep1a5tMMd?si=ffaf033714df4754)
--  [AB Testing](https://open.spotify.com/show/1CrWfV0KNH9HevtsFut1iI?si=85e12dd25e84478f)
--  [Soft Skills Engineering](https://open.spotify.com/show/59I1XnvAB9fQzSj9SIKCoI?si=ae4a6318ecc44364)
+-   [Testing Peers](https://open.spotify.com/show/0C1qVfyy9UtCFMSaZARCHH?si=bd40151ee41b465e) - An interesting podcast providing information about software testing, as well as providing great real-life examples of certain situations that may arise in the IT world.
+- [Testowanie oprogramowania](https://open.spotify.com/show/7jqDWVuJ7YSX4ep1a5tMMd?si=ffaf033714df4754) - Good podcasts than not only discuss crucial aspects of software testing but also disccuss trends that were happening IT industry in recent years. Sadly this podcast have ended in Decemer 2023.
+-  [AB Testing](https://open.spotify.com/show/1CrWfV0KNH9HevtsFut1iI?si=85e12dd25e84478f) - For me the main reason to listen to this podcast was an insightful discussions and practical tips on software testing, making it a valuable resource for testers of all levels. It is even more enjoyable to listen because of the engaging hosts and entertaining banter.
+-  [Soft Skills Engineering](https://open.spotify.com/show/59I1XnvAB9fQzSj9SIKCoI?si=ae4a6318ecc44364) - Main reason to listening this podcast was a source of advices as a software engineer. Its practical solutions and relatable content make it an invaluable resource for navigating workplace challenges.
   
 ## Bug Report
  - [Bug Report - Php Travels](https://drive.google.com/file/d/1AEJIyXruWQJxxRpvOvOQD9w-H9nPIkR3/view?usp=sharing)
